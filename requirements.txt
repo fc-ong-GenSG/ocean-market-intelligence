@@ -1,0 +1,7 @@
+cloudscraper
+pandas
+requests
+beautifulsoup4
+selenium
+lxml
+python-dotenv

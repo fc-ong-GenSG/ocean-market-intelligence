@@ -1,0 +1,119 @@
+﻿Date,Route Code,Rate,Source,Group,POL,POD,Bound,Upload_TS
+02 Jan 2026,FBX01,2617.0,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+02 Jan 2026,FBX03,3757.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+02 Jan 2026,FBX11,3000.0,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+02 Jan 2026,FBX13,4844.0,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-26 13:09:37
+05 Mar 2026,WCI-LAX-SHA,724.0,Drewry,WCI,Los Angeles,Shanghai,Westbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-NYC-RTM,964.0,Drewry,WCI,New York,Rotterdam,Eastbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-RTM-NYC,1570.0,Drewry,WCI,Rotterdam,New York,Westbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-RTM-SHA,543.0,Drewry,WCI,Rotterdam,Shanghai,Westbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-SHA-GOA,2844.0,Drewry,WCI,Shanghai,Genoa,Eastbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-SHA-LAX,2402.0,Drewry,WCI,Shanghai,Los Angeles,Eastbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-SHA-NYC,2977.0,Drewry,WCI,Shanghai,New York,Eastbound,2026-03-26 13:05:49
+05 Mar 2026,WCI-SHA-RTM,2052.0,Drewry,WCI,Shanghai,Rotterdam,Eastbound,2026-03-26 13:05:49
+06 Feb 2026,FBX01,1915.8,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+06 Feb 2026,FBX03,3456.8,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+06 Feb 2026,FBX11,2548.4,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+06 Feb 2026,FBX13,3783.6,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+06 Mar 2026,FBX01,2021.8,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+06 Mar 2026,FBX03,2748.4,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+06 Mar 2026,FBX11,2614.2,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+06 Mar 2026,FBX13,3717.0,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+06 Mar 2026,SCFI-SHA-BUS,139.0,TNSC,SCFI,Shanghai,Busan,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-DUR,2008.0,TNSC,SCFI,Shanghai,Durban,Westbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-DXB,2287.0,TNSC,SCFI,Shanghai,Dubai,Westbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-EJP,321.0,TNSC,SCFI,Shanghai,East Japan,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-GOA,4720.0,TNSC,SCFI,Shanghai,Genoa,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-LAX,1940.0,TNSC,SCFI,Shanghai,Los Angeles,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-LOS,3254.0,TNSC,SCFI,Shanghai,Lagos,Westbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-MBA,2015.0,TNSC,SCFI,Shanghai,Mombasa,Westbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-MEL,669.0,TNSC,SCFI,Shanghai,Melbourne,Southbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-NYC,2717.0,TNSC,SCFI,Shanghai,New York,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-RTM,2904.0,TNSC,SCFI,Shanghai,Rotterdam,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-SIN,457.0,TNSC,SCFI,Shanghai,Singapore,Southbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-SSZ,2618.0,TNSC,SCFI,Shanghai,Santos,Westbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-WJP,311.0,TNSC,SCFI,Shanghai,West Japan,Eastbound,2026-03-30 11:42:04
+06 Mar 2026,SCFI-SHA-ZLO,2592.0,TNSC,SCFI,Shanghai,Manzanillo,Eastbound,2026-03-30 11:42:04
+09 Jan 2026,FBX01,2757.4,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+09 Jan 2026,FBX03,4032.8,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+09 Jan 2026,FBX11,2977.6,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+09 Jan 2026,FBX13,4850.6,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+12 Mar 2026,WCI-LAX-SHA,723,Drewry,WCI,Los Angeles,Shanghai,Westbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-NYC-RTM,942,Drewry,WCI,New York,Rotterdam,Eastbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-RTM-NYC,1527,Drewry,WCI,Rotterdam,New York,Westbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-RTM-SHA,528,Drewry,WCI,Rotterdam,Shanghai,Westbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-SHA-GOA,3120,Drewry,WCI,Shanghai,Genoa,Eastbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-SHA-LAX,2503,Drewry,WCI,Shanghai,Los Angeles,Eastbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-SHA-NYC,3080,Drewry,WCI,Shanghai,New York,Eastbound,2026-03-30 18:23:12
+12 Mar 2026,WCI-SHA-RTM,2443,Drewry,WCI,Shanghai,Rotterdam,Eastbound,2026-03-30 18:23:12
+13 Feb 2026,FBX01,1882.6,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+13 Feb 2026,FBX03,3046.2,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+13 Feb 2026,FBX11,2419.8,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+13 Feb 2026,FBX13,3635.8,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+13 Mar 2026,FBX01,2038.6,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+13 Mar 2026,FBX03,3006.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+13 Mar 2026,FBX11,2883.4,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+13 Mar 2026,FBX13,4276.8,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+13 Mar 2026,SCFI-SHA-BUS,147.0,TNSC,SCFI,Shanghai,Busan,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-DUR,2021.0,TNSC,SCFI,Shanghai,Durban,Westbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-DXB,3220.0,TNSC,SCFI,Shanghai,Dubai,Westbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-EJP,318.0,TNSC,SCFI,Shanghai,East Japan,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-GOA,5332.0,TNSC,SCFI,Shanghai,Genoa,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-LAX,2249.0,TNSC,SCFI,Shanghai,Los Angeles,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-LOS,3424.0,TNSC,SCFI,Shanghai,Lagos,Westbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-MBA,2081.0,TNSC,SCFI,Shanghai,Mombasa,Westbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-MEL,624.0,TNSC,SCFI,Shanghai,Melbourne,Southbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-NYC,3111.0,TNSC,SCFI,Shanghai,New York,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-RTM,3236.0,TNSC,SCFI,Shanghai,Rotterdam,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-SIN,477.0,TNSC,SCFI,Shanghai,Singapore,Southbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-SSZ,2559.0,TNSC,SCFI,Shanghai,Santos,Westbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-WJP,316.0,TNSC,SCFI,Shanghai,West Japan,Eastbound,2026-03-30 11:42:04
+13 Mar 2026,SCFI-SHA-ZLO,2484.0,TNSC,SCFI,Shanghai,Manzanillo,Eastbound,2026-03-30 11:42:04
+16 Jan 2026,FBX01,2668.4,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+16 Jan 2026,FBX03,3947.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+16 Jan 2026,FBX11,2892.6,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+16 Jan 2026,FBX13,4623.4,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+19 Mar 2026,WCI-LAX-SHA,727,Drewry,WCI,Los Angeles,Shanghai,Westbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-NYC-RTM,961,Drewry,WCI,New York,Rotterdam,Eastbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-RTM-NYC,1504,Drewry,WCI,Rotterdam,New York,Westbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-RTM-SHA,539,Drewry,WCI,Rotterdam,Shanghai,Westbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-SHA-GOA,3108,Drewry,WCI,Shanghai,Genoa,Eastbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-SHA-LAX,2591,Drewry,WCI,Shanghai,Los Angeles,Eastbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-SHA-NYC,3310,Drewry,WCI,Shanghai,New York,Eastbound,2026-03-30 18:23:12
+19 Mar 2026,WCI-SHA-RTM,2478,Drewry,WCI,Shanghai,Rotterdam,Eastbound,2026-03-30 18:23:12
+20 Feb 2026,FBX01,1833.8,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+20 Feb 2026,FBX03,3026.8,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+20 Feb 2026,FBX11,2481.8,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+20 Feb 2026,FBX13,3707.4,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+20 Mar 2026,FBX01,2105.0,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+20 Mar 2026,FBX03,3118.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+20 Mar 2026,FBX11,2870.4,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+20 Mar 2026,FBX13,4264.0,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+23 Jan 2026,FBX01,2675.0,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+23 Jan 2026,FBX03,3928.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+23 Jan 2026,FBX11,2926.4,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+23 Jan 2026,FBX13,4384.8,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+26 Dec 2025,FBX01,2145.0,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-26 13:09:37
+26 Dec 2025,FBX03,3363.67,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-26 13:09:37
+26 Dec 2025,FBX11,2741.67,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-26 13:09:37
+26 Dec 2025,FBX13,4004.0,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-26 13:09:37
+26 Mar 2026,WCI-LAX-SHA,729,Drewry,WCI,Los Angeles,Shanghai,Westbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-NYC-RTM,970,Drewry,WCI,New York,Rotterdam,Eastbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-RTM-NYC,1542,Drewry,WCI,Rotterdam,New York,Westbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-RTM-SHA,595,Drewry,WCI,Rotterdam,Shanghai,Westbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-SHA-GOA,3474,Drewry,WCI,Shanghai,Genoa,Eastbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-SHA-LAX,2686,Drewry,WCI,Shanghai,Los Angeles,Eastbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-SHA-NYC,3393,Drewry,WCI,Shanghai,New York,Eastbound,2026-03-30 18:23:12
+26 Mar 2026,WCI-SHA-RTM,2552,Drewry,WCI,Shanghai,Rotterdam,Eastbound,2026-03-30 18:23:12
+27 Feb 2026,FBX01,1843.0,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+27 Feb 2026,FBX03,3021.6,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+27 Feb 2026,FBX11,2460.0,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+27 Feb 2026,FBX13,3649.2,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+27 Mar 2026,FBX01,2183.8,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+27 Mar 2026,FBX03,3198.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+27 Mar 2026,FBX11,2863.0,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+27 Mar 2026,FBX13,3915.0,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28
+30 Jan 2026,FBX01,2418.2,Freightos,FBX,China/East Asia,North America West Coast,Eastbound,2026-03-30 11:46:28
+30 Jan 2026,FBX03,3859.0,Freightos,FBX,China/East Asia,North America East Coast,Eastbound,2026-03-30 11:46:28
+30 Jan 2026,FBX11,2778.8,Freightos,FBX,China/East Asia,North Europe,Westbound,2026-03-30 11:46:28
+30 Jan 2026,FBX13,4179.2,Freightos,FBX,China/East Asia,Mediterranean,Westbound,2026-03-30 11:46:28

@@ -1,0 +1,43 @@
+name: Weekly Alphaliner Top100 Scraper
+
+on:
+  schedule:
+    - cron: '30 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-alphaliner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Alphaliner script
+        run: python scripts/alphaliner/alphaliner_top100.py
+
+      - name: Save CSV files back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed/alphaliner/*.csv
+          git diff --staged --quiet || git commit -m "Automated Weekly Alphaliner Top100 Update"
+          git push

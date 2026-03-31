@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments and secrets
+.env
+config/.env
+
+# Logs and temp
+data/logs/
+data/temp/
+*.log
+
+# Local runtime output
+output/
+playwright_profile_*/
+freightos_session_*.json
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
