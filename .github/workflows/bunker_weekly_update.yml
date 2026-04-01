@@ -2,8 +2,8 @@ name: Weekly Bunker Scraper
 
 on:
   schedule:
-    # Runs every Monday at 08:00 UTC
-    - cron: '0 1 * * 1'
+    # Runs every Monday to Friday at 08:00 UTC
+    - cron: '0 1 * * 1-5'
   workflow_dispatch: # Allows you to trigger it manually to test
 
 permissions:
