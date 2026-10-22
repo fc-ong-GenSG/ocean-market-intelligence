@@ -7176,6 +7176,21 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 23-Feb-2026,725.0,-5.0,725.0,725.0,0.0,Fujairah,BIO
 05-Oct-2026,699.0,31.5,710.0,675.0,35.0,Fujairah,IFO380
 05-Oct-2026,275.5,-8.5,275.5,275.5,0.0,Fujairah,SS
+06-Oct-2026,682.5,-13.0,697.0,655.0,42.0,Rotterdam,VLSFO
+06-Oct-2026,1340.0,-15.5,1425.0,1256.0,169.0,Rotterdam,MGO
+06-Oct-2026,1340.0,-15.5,1425.0,1256.0,169.0,Rotterdam,LSMGO
+06-Oct-2026,884.0,-1.0,885.0,883.0,2.0,Rotterdam,BIO
+06-Oct-2026,613.0,-7.0,628.5,598.0,30.5,Rotterdam,IFO380
+06-Oct-2026,890.0,9.5,909.0,859.5,49.5,Singapore,VLSFO
+06-Oct-2026,1243.0,-35.5,1288.5,1195.5,93.0,Singapore,MGO
+06-Oct-2026,1243.0,-35.5,1288.5,1195.5,93.0,Singapore,LSMGO
+06-Oct-2026,1044.0,9.5,1053.0,1035.0,18.0,Singapore,BIO
+06-Oct-2026,778.0,1.0,804.0,734.5,69.5,Singapore,IFO380
+06-Oct-2026,745.5,3.0,775.0,710.0,65.0,Houston,VLSFO
+06-Oct-2026,540.0,8.5,570.0,502.0,68.0,Houston,IFO380
+06-Oct-2026,979.5,5.0,990.0,967.0,23.0,Fujairah,VLSFO
+06-Oct-2026,1676.5,11.5,1700.0,1650.0,50.0,Fujairah,MGO
+06-Oct-2026,701.5,2.5,715.0,690.0,25.0,Fujairah,IFO380
 20-Oct-2026,962.0,3.5,962.0,962.0,0.0,Global,VLSFO
 19-Oct-2026,958.5,4.0,958.5,958.5,0.0,Global,VLSFO
 16-Oct-2026,954.5,4.0,954.5,954.5,0.0,Global,VLSFO
@@ -7407,6 +7422,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 08-Oct-2026,145.0,-4.0,145.0,145.0,0.0,EMEA,SS
 07-Oct-2026,149.0,-1.5,149.0,149.0,0.0,EMEA,SS
 06-Oct-2026,150.5,-5.0,150.5,150.5,0.0,EMEA,SS
+21-Oct-2026,759.0,-6.0,782.0,743.0,39.0,Rotterdam,VLSFO
 20-Oct-2026,765.0,9.5,780.0,750.0,30.0,Rotterdam,VLSFO
 19-Oct-2026,755.5,15.0,772.0,745.0,27.0,Rotterdam,VLSFO
 16-Oct-2026,740.5,5.0,755.0,723.0,32.0,Rotterdam,VLSFO
@@ -7417,7 +7433,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,715.0,-13.0,727.0,690.0,37.0,Rotterdam,VLSFO
 08-Oct-2026,728.0,36.0,738.5,713.0,25.5,Rotterdam,VLSFO
 07-Oct-2026,692.0,9.5,705.0,665.0,40.0,Rotterdam,VLSFO
-06-Oct-2026,682.5,-13.0,697.0,655.0,42.0,Rotterdam,VLSFO
+21-Oct-2026,1425.0,-11.5,1430.0,1420.0,10.0,Rotterdam,MGO
 20-Oct-2026,1436.5,33.5,1500.0,1393.0,107.0,Rotterdam,MGO
 19-Oct-2026,1403.0,10.5,1455.0,1370.0,85.0,Rotterdam,MGO
 16-Oct-2026,1392.5,-2.5,1430.0,1356.0,74.0,Rotterdam,MGO
@@ -7428,7 +7444,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1374.0,-42.5,1430.0,1315.0,115.0,Rotterdam,MGO
 08-Oct-2026,1416.5,83.5,1471.0,1354.0,117.0,Rotterdam,MGO
 07-Oct-2026,1333.0,-7.0,1391.5,1252.0,139.5,Rotterdam,MGO
-06-Oct-2026,1340.0,-15.5,1425.0,1256.0,169.0,Rotterdam,MGO
+21-Oct-2026,1438.5,2.0,1460.0,1420.0,40.0,Rotterdam,LSMGO
 20-Oct-2026,1436.5,33.5,1500.0,1393.0,107.0,Rotterdam,LSMGO
 19-Oct-2026,1403.0,10.5,1455.0,1370.0,85.0,Rotterdam,LSMGO
 16-Oct-2026,1392.5,-2.5,1430.0,1356.0,74.0,Rotterdam,LSMGO
@@ -7439,7 +7455,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1374.0,-42.5,1430.0,1315.0,115.0,Rotterdam,LSMGO
 08-Oct-2026,1416.5,83.5,1471.0,1354.0,117.0,Rotterdam,LSMGO
 07-Oct-2026,1333.0,-7.0,1391.5,1252.0,139.5,Rotterdam,LSMGO
-06-Oct-2026,1340.0,-15.5,1425.0,1256.0,169.0,Rotterdam,LSMGO
+21-Oct-2026,928.0,18.5,928.0,928.0,0.0,Rotterdam,BIO
 20-Oct-2026,909.5,0.0,920.0,899.0,21.0,Rotterdam,BIO
 19-Oct-2026,909.5,7.5,920.0,899.0,21.0,Rotterdam,BIO
 16-Oct-2026,902.0,1.0,905.0,899.0,6.0,Rotterdam,BIO
@@ -7450,7 +7466,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,914.0,17.5,930.0,898.0,32.0,Rotterdam,BIO
 08-Oct-2026,896.5,11.0,900.0,893.0,7.0,Rotterdam,BIO
 07-Oct-2026,885.5,1.5,888.0,883.0,5.0,Rotterdam,BIO
-06-Oct-2026,884.0,-1.0,885.0,883.0,2.0,Rotterdam,BIO
+21-Oct-2026,677.5,-3.5,692.0,658.0,34.0,Rotterdam,IFO380
 20-Oct-2026,681.0,8.5,694.0,674.0,20.0,Rotterdam,IFO380
 19-Oct-2026,672.5,25.5,685.0,663.0,22.0,Rotterdam,IFO380
 16-Oct-2026,647.0,-6.0,665.0,626.0,39.0,Rotterdam,IFO380
@@ -7461,7 +7477,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,659.0,-6.0,675.0,638.0,37.0,Rotterdam,IFO380
 08-Oct-2026,665.0,55.0,681.0,633.0,48.0,Rotterdam,IFO380
 07-Oct-2026,610.0,-3.0,632.0,562.0,70.0,Rotterdam,IFO380
-06-Oct-2026,613.0,-7.0,628.5,598.0,30.5,Rotterdam,IFO380
 20-Oct-2026,84.0,1.0,84.0,84.0,0.0,Rotterdam,SS
 19-Oct-2026,83.0,-10.0,83.0,83.0,0.0,Rotterdam,SS
 16-Oct-2026,93.0,10.5,93.0,93.0,0.0,Rotterdam,SS
@@ -7528,6 +7543,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 08-Oct-2026,1213.0,0.0,1213.0,1213.0,0.0,Rotterdam,LNG-MGOe
 07-Oct-2026,1213.0,0.0,1213.0,1213.0,0.0,Rotterdam,LNG-MGOe
 06-Oct-2026,1213.0,0.0,1213.0,1213.0,0.0,Rotterdam,LNG-MGOe
+21-Oct-2026,932.0,-0.5,945.0,913.0,32.0,Singapore,VLSFO
 20-Oct-2026,932.5,-1.5,985.0,905.0,80.0,Singapore,VLSFO
 19-Oct-2026,934.0,20.5,998.0,915.0,83.0,Singapore,VLSFO
 16-Oct-2026,913.5,2.0,925.0,903.0,22.0,Singapore,VLSFO
@@ -7538,7 +7554,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,889.5,-18.5,916.0,860.0,56.0,Singapore,VLSFO
 08-Oct-2026,908.0,12.0,935.5,862.5,73.0,Singapore,VLSFO
 07-Oct-2026,896.0,6.0,923.0,850.0,73.0,Singapore,VLSFO
-06-Oct-2026,890.0,9.5,909.0,859.5,49.5,Singapore,VLSFO
+21-Oct-2026,1345.0,27.0,1350.0,1340.0,10.0,Singapore,MGO
 20-Oct-2026,1318.0,45.5,1350.0,1265.0,85.0,Singapore,MGO
 19-Oct-2026,1272.5,18.5,1291.0,1217.5,73.5,Singapore,MGO
 16-Oct-2026,1254.0,-24.5,1285.0,1201.5,83.5,Singapore,MGO
@@ -7549,7 +7565,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1281.0,-10.5,1350.0,1225.0,125.0,Singapore,MGO
 08-Oct-2026,1291.5,37.0,1331.0,1240.0,91.0,Singapore,MGO
 07-Oct-2026,1254.5,11.5,1295.0,1208.5,86.5,Singapore,MGO
-06-Oct-2026,1243.0,-35.5,1288.5,1195.5,93.0,Singapore,MGO
+21-Oct-2026,1328.5,10.5,1350.0,1315.0,35.0,Singapore,LSMGO
 20-Oct-2026,1318.0,45.5,1350.0,1265.0,85.0,Singapore,LSMGO
 19-Oct-2026,1272.5,18.5,1291.0,1217.5,73.5,Singapore,LSMGO
 16-Oct-2026,1254.0,-24.5,1285.0,1201.5,83.5,Singapore,LSMGO
@@ -7560,7 +7576,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1281.0,-10.5,1350.0,1225.0,125.0,Singapore,LSMGO
 08-Oct-2026,1291.5,37.0,1331.0,1240.0,91.0,Singapore,LSMGO
 07-Oct-2026,1254.5,11.5,1295.0,1208.5,86.5,Singapore,LSMGO
-06-Oct-2026,1243.0,-35.5,1288.5,1195.5,93.0,Singapore,LSMGO
+21-Oct-2026,1123.0,40.0,1123.0,1123.0,0.0,Singapore,BIO
 20-Oct-2026,1083.0,14.0,1086.0,1080.0,6.0,Singapore,BIO
 19-Oct-2026,1069.0,5.5,1070.0,1068.0,2.0,Singapore,BIO
 16-Oct-2026,1063.5,3.5,1068.0,1059.0,9.0,Singapore,BIO
@@ -7571,7 +7587,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1046.5,-8.0,1053.0,1040.0,13.0,Singapore,BIO
 08-Oct-2026,1054.5,0.0,1057.0,1052.0,5.0,Singapore,BIO
 07-Oct-2026,1054.5,10.5,1059.0,1050.0,9.0,Singapore,BIO
-06-Oct-2026,1044.0,9.5,1053.0,1035.0,18.0,Singapore,BIO
+21-Oct-2026,880.5,-13.0,885.0,878.0,7.0,Singapore,IFO380
 20-Oct-2026,893.5,-14.0,910.0,874.5,35.5,Singapore,IFO380
 19-Oct-2026,907.5,17.0,955.0,890.0,65.0,Singapore,IFO380
 16-Oct-2026,890.5,5.5,910.0,848.0,62.0,Singapore,IFO380
@@ -7582,7 +7598,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,810.0,1.5,837.5,785.0,52.5,Singapore,IFO380
 08-Oct-2026,808.5,20.0,836.5,746.5,90.0,Singapore,IFO380
 07-Oct-2026,788.5,10.5,815.0,725.0,90.0,Singapore,IFO380
-06-Oct-2026,778.0,1.0,804.0,734.5,69.5,Singapore,IFO380
 20-Oct-2026,39.0,12.5,39.0,39.0,0.0,Singapore,SS
 19-Oct-2026,26.5,4.0,26.5,26.5,0.0,Singapore,SS
 16-Oct-2026,22.5,-4.0,22.5,22.5,0.0,Singapore,SS
@@ -7627,6 +7642,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 24-Aug-2026,1102.5,71.5,1102.5,1102.5,0.0,Singapore,MEOHMGOe
 17-Aug-2026,1031.0,24.5,1031.0,1031.0,0.0,Singapore,MEOHMGOe
 10-Aug-2026,1006.5,-25.0,1006.5,1006.5,0.0,Singapore,MEOHMGOe
+21-Oct-2026,791.5,6.5,811.0,780.0,31.0,Houston,VLSFO
 20-Oct-2026,785.0,4.5,800.0,770.0,30.0,Houston,VLSFO
 19-Oct-2026,780.5,13.0,791.0,770.0,21.0,Houston,VLSFO
 16-Oct-2026,767.5,3.5,779.0,755.0,24.0,Houston,VLSFO
@@ -7637,7 +7653,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,763.0,3.0,790.5,745.0,45.5,Houston,VLSFO
 08-Oct-2026,760.0,5.5,787.0,740.0,47.0,Houston,VLSFO
 07-Oct-2026,754.5,9.0,781.0,720.0,61.0,Houston,VLSFO
-06-Oct-2026,745.5,3.0,775.0,710.0,65.0,Houston,VLSFO
 20-Oct-2026,1417.5,9.0,1452.0,1375.0,77.0,Houston,MGO
 19-Oct-2026,1408.5,24.0,1424.0,1390.0,34.0,Houston,MGO
 16-Oct-2026,1384.5,-21.5,1415.0,1352.0,63.0,Houston,MGO
@@ -7660,6 +7675,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 08-Oct-2026,1319.0,-16.0,1319.0,1319.0,0.0,Houston,BIO
 07-Oct-2026,1335.0,-32.0,1335.0,1335.0,0.0,Houston,BIO
 06-Oct-2026,1367.0,25.0,1367.0,1367.0,0.0,Houston,BIO
+21-Oct-2026,610.5,15.5,627.0,599.0,28.0,Houston,IFO380
 20-Oct-2026,595.0,-6.0,630.0,560.0,70.0,Houston,IFO380
 19-Oct-2026,601.0,16.5,623.0,555.0,68.0,Houston,IFO380
 16-Oct-2026,584.5,9.5,599.0,545.0,54.0,Houston,IFO380
@@ -7670,7 +7686,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,576.0,0.0,604.5,552.0,52.5,Houston,IFO380
 08-Oct-2026,576.0,35.0,604.5,550.0,54.5,Houston,IFO380
 07-Oct-2026,541.0,1.0,574.0,502.5,71.5,Houston,IFO380
-06-Oct-2026,540.0,8.5,570.0,502.0,68.0,Houston,IFO380
 20-Oct-2026,190.0,10.5,190.0,190.0,0.0,Houston,SS
 19-Oct-2026,179.5,-4.0,179.5,179.5,0.0,Houston,SS
 16-Oct-2026,183.5,-5.5,183.5,183.5,0.0,Houston,SS
@@ -7715,6 +7730,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 24-Aug-2026,1015.5,132.5,1015.5,1015.5,0.0,Houston,MEOHMGOe
 17-Aug-2026,883.0,-68.0,883.0,883.0,0.0,Houston,MEOHMGOe
 10-Aug-2026,951.0,-27.5,951.0,951.0,0.0,Houston,MEOHMGOe
+21-Oct-2026,968.0,-11.5,990.0,945.0,45.0,Fujairah,VLSFO
 20-Oct-2026,979.5,6.5,992.0,970.0,22.0,Fujairah,VLSFO
 19-Oct-2026,973.0,6.0,987.0,965.0,22.0,Fujairah,VLSFO
 16-Oct-2026,967.0,-3.5,977.0,950.0,27.0,Fujairah,VLSFO
@@ -7725,7 +7741,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,967.5,-20.5,986.5,955.0,31.5,Fujairah,VLSFO
 08-Oct-2026,988.0,3.5,1007.5,970.0,37.5,Fujairah,VLSFO
 07-Oct-2026,984.5,5.0,1004.0,965.0,39.0,Fujairah,VLSFO
-06-Oct-2026,979.5,5.0,990.0,967.0,23.0,Fujairah,VLSFO
+21-Oct-2026,1735.0,-58.5,1740.0,1730.0,10.0,Fujairah,MGO
 20-Oct-2026,1793.5,155.5,1875.0,1730.0,145.0,Fujairah,MGO
 19-Oct-2026,1638.0,31.5,1750.0,1306.0,444.0,Fujairah,MGO
 16-Oct-2026,1606.5,-117.5,1740.0,1280.0,460.0,Fujairah,MGO
@@ -7736,7 +7752,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,1694.5,-21.5,1760.0,1650.0,110.0,Fujairah,MGO
 08-Oct-2026,1716.0,30.0,1750.0,1690.0,60.0,Fujairah,MGO
 07-Oct-2026,1686.0,9.5,1720.0,1650.0,70.0,Fujairah,MGO
-06-Oct-2026,1676.5,11.5,1700.0,1650.0,50.0,Fujairah,MGO
 20-Oct-2026,825.0,0.0,825.0,825.0,0.0,Fujairah,BIO
 19-Oct-2026,825.0,0.0,825.0,825.0,0.0,Fujairah,BIO
 16-Oct-2026,825.0,0.0,825.0,825.0,0.0,Fujairah,BIO
@@ -7748,6 +7763,7 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 26-Feb-2026,725.0,0.0,725.0,725.0,0.0,Fujairah,BIO
 25-Feb-2026,725.0,0.0,725.0,725.0,0.0,Fujairah,BIO
 24-Feb-2026,725.0,0.0,725.0,725.0,0.0,Fujairah,BIO
+21-Oct-2026,724.5,-32.0,736.0,720.0,16.0,Fujairah,IFO380
 20-Oct-2026,756.5,-2.0,771.0,744.0,27.0,Fujairah,IFO380
 19-Oct-2026,758.5,5.5,772.0,753.0,19.0,Fujairah,IFO380
 16-Oct-2026,753.0,10.0,770.0,735.0,35.0,Fujairah,IFO380
@@ -7758,7 +7774,6 @@ Date,Price $/mt,Change,High,Low,Spread,Location,Fuel_Type
 09-Oct-2026,711.5,-10.5,725.0,700.0,25.0,Fujairah,IFO380
 08-Oct-2026,722.0,9.5,733.0,714.0,19.0,Fujairah,IFO380
 07-Oct-2026,712.5,11.0,726.0,690.0,36.0,Fujairah,IFO380
-06-Oct-2026,701.5,2.5,715.0,690.0,25.0,Fujairah,IFO380
 20-Oct-2026,223.0,8.0,223.0,223.0,0.0,Fujairah,SS
 19-Oct-2026,215.0,1.0,215.0,215.0,0.0,Fujairah,SS
 16-Oct-2026,214.0,-13.5,214.0,214.0,0.0,Fujairah,SS
